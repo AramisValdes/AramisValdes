@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Python</b>
-  - [How to make a MAC Adress spoffer](https://github.com/)
+  - [How to make a MAC Address Spoofer](https://github.com/)
 
 <h2>📄 Certifications</h2>
 
