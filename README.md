@@ -8,7 +8,7 @@
 <h2>📄 Certifications</h2>
 
 - [Microsoft Certified: Azure Fundamentals AZ-900](https://www.credly.com/badges/9bfdec45-e23b-431c-b6b8-9e9829f8f4ff?)
-- [Fortinet NS3 Network Security Associate](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6907088603403714560?)
+- [Fortinet: Network Security Associate NS3](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6907088603403714560?)
 
 <h2> 🤳 Connect with me:</h2>
 
