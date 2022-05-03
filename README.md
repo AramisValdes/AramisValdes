@@ -3,7 +3,10 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Python</b>
-  - [Simple Password Generator](https://github.com/)
+  - [Simple Password Generator](https://github.com/AramisValdes/PasswordGenerator)
+- <b>Bash Scripts</b>
+  - [Subdomain Enumeration](https://github.com/AramisValdes/Subdomain_lookup)
+
 
 <h2>📄 Certifications</h2>
 
