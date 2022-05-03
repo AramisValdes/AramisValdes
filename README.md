@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aramis! <br/><a href="https://www.linkedin.com/in/aramis-valdes/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Aramis! <br/><a href="https://www.linkedin.com/in/aramis-valdes/">Cybersecurity Professional</a>, <a href="https://github.com/AramisValdes">Programmer</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
